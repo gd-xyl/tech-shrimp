@@ -4,5 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-dockurr/windows
-haroldli/xiaoya-tvbox:latest
+--platform=linux/amd64 haroldli/xiaoya-tvbox:latest
+--platform=linux/armv7a haroldli/xiaoya-tvbox:latest

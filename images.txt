@@ -5,4 +5,4 @@
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/amd64 haroldli/xiaoya-tvbox:latest
---platform=linux/aarch haroldli/xiaoya-tvbox:latest
+--platform=linux/aarch64 haroldli/xiaoya-tvbox:latest

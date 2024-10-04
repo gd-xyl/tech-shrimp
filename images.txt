@@ -7,4 +7,4 @@
 --platform=linux/amd64 haroldli/xiaoya-tvbox:latest
 --platform=linux/x86_64 haroldli/xiaoya-tvbox:latest
 --platform=linux/aarch64 haroldli/xiaoya-tvbox:latest
---platform=windows/x64 haroldli/xiaoya-tvbox:latest
+

@@ -8,4 +8,6 @@
 --platform=linux/x86_64 haroldli/xiaoya-tvbox:latest
 --platform=linux/aarch64 haroldli/xiaoya-tvbox:latest
 --platform=linux/aarch64 xhofe/alist:latest
---platform=linux/aarch64 cloudnas/clouddrive2
+--platform=linux/aarch64 cloudnas/clouddrive2:latest
+--platform=linux/aarch64 ffdfgdfg/nps:latest
+--platform=linux/aarch64 ffdfgdfg/npc:latest

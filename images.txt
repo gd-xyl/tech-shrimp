@@ -11,4 +11,4 @@
 --platform=linux/aarch64 cloudnas/clouddrive2:latest
 #ffdfgdfg/nps:latest
 #ffdfgdfg/npc:latest
-ghcr.io/open-webui/open-webui:main
+--platform=linux/aarch64 ghcr.io/open-webui/open-webui:main
